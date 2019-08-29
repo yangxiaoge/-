@@ -1,4 +1,4 @@
-package com.xchat.stevenzack.langenius;
+package com.seuic.yjn.langenius;
 
 import android.os.Environment;
 import android.os.Message;

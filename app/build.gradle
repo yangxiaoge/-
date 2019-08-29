@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.xchat.stevenzack.langenius"
+        applicationId "com.seuic.yjn.langenius"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 20
@@ -30,7 +30,7 @@ dependencies {
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     compile 'com.android.support:design:26.0.0-alpha1'
     compile 'com.github.open-android:Zxing:v1.0.3'
-    implementation 'com.getbase:floatingactionbutton:1.10.1'
+    compile 'com.getbase:floatingactionbutton:1.10.1'
     testCompile 'junit:junit:4.12'
     implementation project(':LanGenius')
 }

@@ -1,4 +1,4 @@
-package com.xchat.stevenzack.langenius;
+package com.seuic.yjn.langenius;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -24,10 +24,8 @@ import android.widget.ArrayAdapter;
 import android.widget.CompoundButton;
 import android.widget.EditText;
 import android.widget.ImageButton;
-import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.Switch;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;

@@ -5,7 +5,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.xchat.stevenzack.langenius.KCActivity">
+    tools:context="com.seuic.yjn.langenius.KCActivity">
 
 
     <android.support.v4.view.ViewPager

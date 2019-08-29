@@ -1,4 +1,4 @@
-package com.xchat.stevenzack.langenius;
+package com.seuic.yjn.langenius;
 
 import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
@@ -6,16 +6,11 @@ import android.graphics.drawable.Drawable;
 import android.os.Message;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.util.SparseBooleanArray;
 import android.view.View;
-import android.widget.AbsListView;
 import android.widget.AdapterView;
-import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
-import android.widget.Toast;
 
 import java.io.File;
 import java.util.ArrayList;
